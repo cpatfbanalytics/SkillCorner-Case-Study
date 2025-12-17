@@ -170,13 +170,9 @@ https://github.com/yourusername/skillcorner-wr-draft-analysis
 ## 📧 Contact
 
 For questions or collaboration opportunities:
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourprofile
-- Twitter: @yourhandle
-
-## 📄 License
-
-This project is licensed under the MIT License - see LICENSE file for details.
+- Email: conor.patten@duke.edu
+- LinkedIn: linkedin.com/in/conorpatten
+- Twitter: @cpatfbanalytics
 
 ## 🙏 Acknowledgments
 
