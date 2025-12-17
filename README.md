@@ -13,33 +13,6 @@ A data-driven analysis of how tracking-derived athletic traits predict NFL draft
 - Four distinct WR archetypes identified with 5x draft rate difference (20.3% vs 3.9%)
 - Separation ability shows near-zero correlation with draft capital despite NFL importance
 
-## 🗂️ Repository Structure
-```
-skillcorner-wr-draft-analysis/
-├── data/
-│   ├── raw/
-│   │   ├── Case Study Data AF - data.csv          # SkillCorner tracking data
-│   │   ├── routesRun.csv                          # PFF routes data
-│   │   ├── receivingStats.csv                     # PFF receiving stats
-│   │   └── receivingTargetRates.csv               # PFF target rates
-│   └── processed/
-│       ├── tracking_full_merged.csv               # Final merged dataset
-│       └── drafted_players_analysis.csv           # Drafted players only
-├── notebooks/
-│   └── wr_draft_analysis.ipynb                    # Main analysis notebook (Cells 1-9)
-├── visualizations/
-│   ├── draftAnalysis.png
-│   ├── SkillCornervsPFF.png
-│   ├── WRArchetypeClusters.png
-│   ├── traitsToPredictDraftPosition.png
-│   └── DraftValueAnalysis.png
-├── presentation/
-│   └── presentation_guide.md                      # Slide-by-slide speaker notes
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
 ## 🔬 Methodology
 
 ### Data Sources
